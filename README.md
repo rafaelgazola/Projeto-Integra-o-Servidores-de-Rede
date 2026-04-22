@@ -80,19 +80,19 @@ Um ponto crítico da atividade foi a resolução de conflitos de rede:
 <div align="center">
   <h3>1. Servidor Web Ativo (Apache)</h3>
   <p>Acesso via navegador no host (Windows) através da porta 8080.</p>
-  <img src="./img/print_navegador.png" width="85%" alt="Print do Servidor Web">
+  <img src="https://github.com/user-attachments/assets/d79305fb-dd5e-46ff-8ddb-dc0e979759e1" width="85%" alt="Print do Servidor Web">
 
   <br><br>
 
   <h3>2. Conexão SSH via Terminal</h3>
   <p>Validação do acesso remoto seguro via prompt de comando.</p>
-  <img src="./img/print_ssh.png" width="85%" alt="Print do Acesso SSH">
+  <img width="1115" height="628" alt="SHHviaterminal" src="https://github.com/user-attachments/assets/c2b9a250-687e-405d-8b04-47bdcd3bd4b7" width="85%" alt="Print do Acesso SSH">
 
   <br><br>
 
   <h3>3. Transferência de Arquivos (SFTP)</h3>
   <p>Configuração do Gerenciador de Sites no FileZilla para contornar limitações do NAT.</p>
-  <img src="./img/print_filezilla.png" width="85%" alt="Print do FileZilla">
+  <img width="1186" height="943" alt="zifilee" src="https://github.com/user-attachments/assets/824f57aa-ea25-414d-a6c6-3f67a0bf781f" width="85%" alt="Print do FileZilla">
 </div>
 
 <hr>
